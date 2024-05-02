@@ -9,7 +9,7 @@ function App() {
   return (
     // <LoadScript googleMapsApiKey="AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg">
     <LoadScript
-      googleMapsApiKey="AIzaSyCeWa9GnzWXG9l6_DCTo4qq2SS9sYDV-Z8"
+      googleMapsApiKey="AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg"
       libraries={["places"]}
       loadingElement={
         <div>Loading...</div>
